@@ -4,7 +4,7 @@ TestWidget::TestWidget(QWidget *parent)
     : QWidget(parent)
 {
 
-    qDebug()<<"Checking.......TestWidget ";
+    qDebug()<<"Checking..........TestWidget ";
 }
 
 TestWidget::~TestWidget()

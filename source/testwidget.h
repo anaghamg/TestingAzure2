@@ -11,7 +11,7 @@ class TestWidget : public QWidget
 
 public:
     TestWidget(QWidget *parent = 0);
-    ~TestWidget();
+    ~TestWidget();///
 };
 
 #endif // TESTWIDGET_H
